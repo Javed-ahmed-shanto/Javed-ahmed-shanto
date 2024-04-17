@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Javed Ahmed Shanto</h1>
-<h3 align="center">A fully funded graduate student in Kumoh National Institute of Technology, also working as graduate reserach assistatn at Network System Lab. My research areas are mainly focus on applying machine learning, deep learning, federated learning to different fields.</h3>
+<h3 align="center">A fully funded graduate student at Kumoh National Institute of Technology and a graduate research assistant at Network System Lab. My research areas mainly focus on applying machine, deep, and federated learning to different fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javed-ahmed-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="javed-ahmed-shanto" /> </p>
 
