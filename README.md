@@ -6,7 +6,7 @@
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="[https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif](https://github.com/npentrel/octoclippy/blob/master/gifs/doubleblink.gif)" />
 
 - 🔭 I’m currently working on multiple project on **Deep Learning, NLP, and Blockchain**
 
