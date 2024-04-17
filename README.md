@@ -6,7 +6,7 @@
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://octodex.github.com/nuxtocat" width='48%'/>
+<img align="right" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif" width='48%'/>
 
 - 🔭 I’m currently working on multiple project on **Deep Learning, NLP, and Blockchain**
 
