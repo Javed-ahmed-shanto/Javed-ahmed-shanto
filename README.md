@@ -17,7 +17,7 @@
 </picture>
 -->
 <div style="display: flex; align-items: center;">
-  <div style="width: 55%; float: left;">
+  <div style="width: 45%; float: left;">
 - 🔭 I’m currently working on multiple project on **Deep Learning, NLP, and Blockchain**
 
 - 🌱 I’m currently learning **Hyperledger besu, and fabric**
