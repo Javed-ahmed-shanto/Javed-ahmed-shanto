@@ -6,7 +6,7 @@
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
+<img align="right" src="<iframe src="https://giphy.com/embed/kQ3FSVoJrkYWk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kQ3FSVoJrkYWk">via GIPHY</a></p>" />
 
 - 🔭 I’m currently working on multiple project on **Deep Learning, NLP, and Blockchain**
 
