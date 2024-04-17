@@ -11,11 +11,11 @@
 
 - 👯 I’m looking to collaborate on **any Deep Learning based project**
 
-- 📝 My Personal website is [https://sites.google.com/view/javedahmedshanto/](https://sites.google.com/view/javedahmedshanto/)
+- 📝 My Personal website is [shanto's website](https://sites.google.com/view/javedahmedshanto/)
 
-- 📫 How to reach me **shantoa729@gmail.com**
+- 📫 Want to mail me? **shantoa729@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_ysBnN0kDB-N6doKONk32UwKlMj8TSFZ/view](https://drive.google.com/file/d/1_ysBnN0kDB-N6doKONk32UwKlMj8TSFZ/view)
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1_ysBnN0kDB-N6doKONk32UwKlMj8TSFZ/view)
 
 - ⚡ Fun fact **I am too busy to watch a movie. i forgot when was the last time i slept perfectly!!!**
 
