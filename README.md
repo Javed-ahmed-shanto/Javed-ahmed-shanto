@@ -42,5 +42,5 @@ your comment goes here
 and here
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=javed-ahmed-shanto&show_icons=true&locale=en" alt="javed-ahmed-shanto" width='48%'/>
 -->
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javed-ahmed-shanto&" alt="javed-ahmed-shanto" width='48%'/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javed-ahmed-shanto&show_icons=true&locale=en&layout=compact" alt="javed-ahmed-shanto" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javed-ahmed-shanto&" alt="javed-ahmed-shanto" width='48%'/> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javed-ahmed-shanto&show_icons=true&locale=en&layout=compact" alt="javed-ahmed-shanto" />
+
