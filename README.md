@@ -6,7 +6,7 @@
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://github.com/npentrel/octoclippy/blob/master/gifs/doubleblink.gif" width = "25" height ="50"/>
+<img align="right" src="https://github.com/npentrel/octoclippy/blob/master/gifs/doubleblink.gif" width='48%'/>
 
 - 🔭 I’m currently working on multiple project on **Deep Learning, NLP, and Blockchain**
 
