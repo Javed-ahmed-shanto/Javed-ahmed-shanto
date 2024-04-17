@@ -38,6 +38,6 @@ If you like what I do, maybe consider buying me a coffee/tea..
 
 ## 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javed-ahmed-shanto&show_icons=true&locale=en" alt="javed-ahmed-shanto" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javed-ahmed-shanto&" alt="javed-ahmed-shanto" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javed-ahmed-shanto&show_icons=true&locale=en" alt="javed-ahmed-shanto" width='48%'/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javed-ahmed-shanto&" alt="javed-ahmed-shanto" width='48%'/></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javed-ahmed-shanto&show_icons=true&locale=en&layout=compact" alt="javed-ahmed-shanto" /></p>
