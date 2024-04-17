@@ -1,9 +1,12 @@
 <h1 align="center">Hi <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> , I'm Md Javed Ahmed Shanto</h1>
-<h3 align="center">A fully funded graduate student at Kumoh National Institute of Technology and a graduate research assistant at Network System Lab. My research areas mainly focus on applying machine, deep, and federated learning to different fields.</h3>
+<h3 align="center">A fully funded master's student at Kumoh National Institute of Technology and a graduate research assistant at Network System Lab. My research areas mainly focus on applying machine, deep, and federated learning to different fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javed-ahmed-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="javed-ahmed-shanto" /> </p>
 
 
+## ⚡ A Few Quick Facts:
+
+<img align="right" src="https://github.com/mirsazzathossain/mirsazzathossain/blob/master/gifs/octocat-anime.gif" />
 
 - 🔭 I’m currently working on multiple project on **Deep Learning, NLP, and Blockchain**
 
