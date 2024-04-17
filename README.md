@@ -36,7 +36,7 @@ If you like what I do, maybe consider buying me a coffee/tea..
 ## 🏆 GitHub Trophies:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javed-ahmed-shanto" alt="javed-ahmed-shanto" /></a> </p>
 
-
+## 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javed-ahmed-shanto&show_icons=true&locale=en&layout=compact" alt="javed-ahmed-shanto" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javed-ahmed-shanto&show_icons=true&locale=en" alt="javed-ahmed-shanto" /></p>
