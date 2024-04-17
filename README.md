@@ -17,7 +17,7 @@
 </picture>
 -->
 
-- 🔭 I’m currently working on many project on **DL, NLP, and Blockchain**
+- 🔭 I’m currently working on multiple project on **DL, NLP, and Blockchain**
 
 - 🌱 I’m currently learning **Hyperledger besu, and fabric**
 
