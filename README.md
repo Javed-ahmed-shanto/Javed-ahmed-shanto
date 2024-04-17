@@ -7,7 +7,8 @@
 </picture>
 ## ⚡ A Few Quick Facts:
 
-<!--- <img align="right" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif" width='48%'/> --->
+<!-- <img align="right" src="https://user-images.githubusercontent.com/19292210/88347096-c067a980-ccfe-11ea-8a06-bdaf552fee06.gif" width='48%'/> 
+-->
 
 <picture align="right">
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/19292210/199123129-b9c2437d-4e6d-4f1c-a7ea-d9a91babb41d.gif">
