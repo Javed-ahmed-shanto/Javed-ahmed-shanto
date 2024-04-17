@@ -6,7 +6,7 @@
 
 ## ⚡ A Few Quick Facts:
 
-<img align="right" src="https://giphy.com/embed/kQ3FSVoJrkYWk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen />
+<img align="right" src="https://giphy.com/embed/kQ3FSVoJrkYWk"/>
 
 
 - 🔭 I’m currently working on multiple project on **Deep Learning, NLP, and Blockchain**
