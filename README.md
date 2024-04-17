@@ -13,11 +13,11 @@
 
 - 📝 My Personal website is [shanto's website](https://sites.google.com/view/javedahmedshanto/)
 
-- 📫 Want to mail me? **shantoa729@gmail.com**
+- 📫 Want to mail me? [Gmail](mailto:shantoa729@gmail.com)
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1_ysBnN0kDB-N6doKONk32UwKlMj8TSFZ/view)
 
-- ⚡ Fun fact **I am too busy to watch a movie. i forgot when was the last time i slept perfectly!!!**
+- ⚡ Fun fact **I am too busy to watch a movie. I forgot when the last time I slept perfectly was!!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
