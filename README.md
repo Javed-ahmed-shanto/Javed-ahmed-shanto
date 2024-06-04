@@ -17,7 +17,7 @@
 </picture>
 -->
 
-- 🔭 I’m currently working on multiple project on **DL, NLP, and Blockchain**
+- 🔭 I’m currently working on multiple project on **ML, DL, NLP, CV, and Blockchain**
 
 - 🌱 I’m currently learning **Hyperledger besu, and fabric**
 
@@ -29,7 +29,7 @@
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1_ysBnN0kDB-N6doKONk32UwKlMj8TSFZ/view)
 
-- ⚡ Fun fact **I forgot when the last time I slept perfectly was!!!**
+- ⚡ Fun fact **I forgot when the last time I slept perfectly !!!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
