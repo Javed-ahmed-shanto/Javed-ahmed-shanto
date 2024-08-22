@@ -1,5 +1,5 @@
 <h1 align="center">Hi <a href="#"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></a> , I'm Md Javed Ahmed Shanto </h1>
-<h3 align="center">A fully funded master's student studying IT Convergence Engineering 💻 at Kumoh National Institute of Technology and a graduate research assistant at Network System Lab. My research areas mainly focus on applying machine, deep, and federated learning to different fields.</h3>
+<h3 align="center">A Gov. scholarship PhD candidate studying IT Faculty 💻 at the University of Jyväskyla, Finland, and a Doctoral Researcher at HUMBLE Lab. My research areas mainly focus on applying machine, deep, and federated learning to different fields like nanotechnology and Brain Signal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javed-ahmed-shanto&label=Profile%20views&color=0e75b6&style=flat" alt="javed-ahmed-shanto" /> </p>
 
